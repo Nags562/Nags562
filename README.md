@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hello, I'm Prisca
 
-<!--
-**Nags562/Nags562** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Passionate technologist bridging the gap between creative front-end development and secure, intelligent systems. I leverage my background in web and mobile app development to build intuitive applications, while applying cybersecurity principles and risk governance to ensure digital resilience.
 
-Here are some ideas to get you started:
+## 🛠️ Technical Toolkit
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Front End & App Development
+* Languages: JavaScript, Dart, Python, PHP
+* Frameworks: React, React Native, Expo, Flutter
+* UI & Design: Tailwind CSS, Responsive Design
+
+### Cybersecurity, GRC & Forensics
+* Domains: SOC Analysis, Penetration Testing, GRC (Governance, Risk & Compliance), Digital Forensics
+* Tools: Wireshark, Burp Suite, Nessus, Nmap, Snort, Metasploit
+
+### Artificial Intelligence
+* Focus: Integrating LLMs, prompt engineering, and AI-driven workflow automation
